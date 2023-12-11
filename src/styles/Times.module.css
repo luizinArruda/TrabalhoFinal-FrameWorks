@@ -1,0 +1,18 @@
+.body{
+    background-color: #805ecf;
+}
+
+.titulo{
+    text-align: center;
+    margin: 1vw;
+}
+.time{
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    border-top: black 1px solid;
+}
+
+.time:hover{
+    background-color: #6246a3;
+}

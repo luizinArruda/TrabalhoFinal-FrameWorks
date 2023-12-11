@@ -1,0 +1,11 @@
+.body{
+    background-color: #805ecf;
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.body2{
+    width: 60%;
+}

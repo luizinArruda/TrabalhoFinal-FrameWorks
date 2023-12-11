@@ -1,0 +1,14 @@
+.body{
+    background-color: #805ecf;
+}
+.cont{
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.cont2{
+    text-align: center;
+    width: 60%;
+}
